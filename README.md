@@ -1,2 +1,2 @@
-# wordsdata
-All English Words and 1.000 Turkish Words in JSON
+# langdatabase
+Online database that contains turkish and english words with JSON format.
